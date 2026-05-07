@@ -2,7 +2,7 @@
 
 **Compare the latest AI models and get a personalized integration plan for your company.**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpabloinfante00-art%2Fllm-advisor&env=GEMINI_API_KEY,OPENAI_API_KEY,ANTHROPIC_API_KEY&envDescription=API%20keys%20for%20the%20AI%20chat%20advisor%20(optional%20-%20the%20comparison%20and%20recommendations%20work%20without%20them)&project-name=llm-advisor)
+**[Launch App](https://llm-advisor-henna.vercel.app)** | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpabloinfante00-art%2Fllm-advisor&env=GEMINI_API_KEY,OPENAI_API_KEY,ANTHROPIC_API_KEY&envDescription=API%20keys%20for%20the%20AI%20chat%20advisor%20(optional%20-%20the%20comparison%20and%20recommendations%20work%20without%20them)&project-name=llm-advisor)
 
 ---
 
