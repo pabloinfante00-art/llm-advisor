@@ -142,7 +142,7 @@ async function streamGemini(
   const genAI = new GoogleGenerativeAI(apiKey);
   const model = genAI.getGenerativeModel({
     model: "gemini-2.5-flash",
-    systemInstruction: { parts: [{ text: systemPrompt }] },
+    systemInstruction: { role: "user", parts: [{ text: systemPrompt }] },
   });
 
   const contents = messages.map((m) => ({
